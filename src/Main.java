@@ -7,5 +7,6 @@ public class Main {
         Book oid = new Book("Темные начала", nabokov, 1997);
 
         book.setPublicationYear(1956);
+        System.out.println(nabokov);
     }
 }
