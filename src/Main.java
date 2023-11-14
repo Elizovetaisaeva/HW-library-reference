@@ -9,4 +9,3 @@ public class Main {
         book.setPublicationYear(1956);
     }
 }
-
